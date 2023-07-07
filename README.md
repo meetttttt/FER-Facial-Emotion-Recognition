@@ -7,7 +7,7 @@ We will be using the dataset [fer-2013](https://www.kaggle.com/datasets/ashishpa
 # Models used:
 1.CNN
 
-#Evaluation:
+# Evaluation:
 Model will be evaluated based on the following criteria:
 1. Accuracy: The overall accuracy of the model in correctly predicting the emotions.
 2. F1-score: The weighted average of precision and recall for each emotion class.
